@@ -1,0 +1,8 @@
+E:\car\21-8-23-SQL\Assign 7\21-8-23-Assign 7\21-8-23-Assign 7\bin\Debug\21-8-23-Assign 7.exe.config
+E:\car\21-8-23-SQL\Assign 7\21-8-23-Assign 7\21-8-23-Assign 7\bin\Debug\21-8-23-Assign 7.exe
+E:\car\21-8-23-SQL\Assign 7\21-8-23-Assign 7\21-8-23-Assign 7\bin\Debug\21-8-23-Assign 7.pdb
+E:\car\21-8-23-SQL\Assign 7\21-8-23-Assign 7\21-8-23-Assign 7\obj\Debug\21-8-23-Assign 7.csproj.AssemblyReference.cache
+E:\car\21-8-23-SQL\Assign 7\21-8-23-Assign 7\21-8-23-Assign 7\obj\Debug\21-8-23-Assign 7.csproj.SuggestedBindingRedirects.cache
+E:\car\21-8-23-SQL\Assign 7\21-8-23-Assign 7\21-8-23-Assign 7\obj\Debug\21-8-23-Assign 7.csproj.CoreCompileInputs.cache
+E:\car\21-8-23-SQL\Assign 7\21-8-23-Assign 7\21-8-23-Assign 7\obj\Debug\21-8-23-Assign 7.exe
+E:\car\21-8-23-SQL\Assign 7\21-8-23-Assign 7\21-8-23-Assign 7\obj\Debug\21-8-23-Assign 7.pdb
